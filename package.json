@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "todolisttp",
   "version": "0.1.0",
   "private": true,
@@ -37,4 +38,17 @@
       "last 1 safari version"
     ]
   }
+=======
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.8.0",
+        "vite": "^4.0.0"
+    }
+>>>>>>> ef651d8519c6aa6d605cd6509d5d813e33e11203
 }
